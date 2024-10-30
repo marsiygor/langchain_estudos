@@ -1,11 +1,8 @@
-![Capa do curso LangChain: desenvolva agente de inteligência artificial em Python](https://github.com/alura-cursos/3860-langchain-agentes-python/assets/3330769/baa2a716-78a4-4746-acb6-5714aced2612)
 
-
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
 
 # Titulo do projeto
 
-3860 - LangChain: desenvolva agentes de inteligência artificial
+LangChain
 
 ## 🔨 Funcionalidades do projeto
 
